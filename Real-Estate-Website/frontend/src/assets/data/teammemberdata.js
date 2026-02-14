@@ -1,5 +1,7 @@
 import bulluimage from '../images/bullu.png';
 import prayasimage from '../images/prayasdon.png';
+import fahadimage from '../images/fahadimage7076.png';
+
 
 export const teamMembers = [
     {
@@ -19,6 +21,16 @@ export const teamMembers = [
       position: 'Chief Technology Officer',
       bio: "Tech innovator driving our platform's cutting-edge solutions.",
       image: prayasimage,
+      social: {
+        linkedin: '#',
+        twitter: '#',
+      },
+    },
+    {
+      name: 'Md Fahad',
+      position: 'Chief Maintenance Officer',
+      bio: "Tech innovator driving our platform's cutting-edge solutions.",
+      image: fahadimage,
       social: {
         linkedin: '#',
         twitter: '#',

@@ -47,3 +47,4 @@ NODE_ENV=development
 - If you get "Image upload service not configured" error, make sure ImageKit environment variables are set
 - If you get database connection errors, check your MongoDB URI
 - The uploads directory is automatically created when the server starts
+
